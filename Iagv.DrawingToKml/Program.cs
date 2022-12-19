@@ -78,5 +78,5 @@ foreach (var drawing in drawings)
 void ShowHelp()
 {
   Console.WriteLine("--source <path> --profile <epf file> --destination <path>");
-  Console.Write("[Optional] --included-drawing-regex <patten for files that will be included>";
+  Console.Write("[Optional] --included-drawing-regex <patten for files that will be included>");
 }
