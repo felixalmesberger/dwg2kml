@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Iagv.DrawingToKml": {
+      "commandName": "Project",
+      "commandLineArgs": "--source \"C:\\Users\\alf\\Desktop\\Neuer Ordner\" --profile \"C:\\Users\\alf\\Desktop\\profile.epf\" --destination \"C:\\Users\\alf\\Desktop\\NEUE KMLS\""
+    }
+  }
+}
